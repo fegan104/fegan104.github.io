@@ -29,6 +29,7 @@ $dokka.location:com.frankegan.sqlkite/KiteDatabase/insert/#kotlin.String#kotlin.
 $dokka.location:com.frankegan.sqlkite/KiteDatabase/query/#androidx.sqlite.db.SupportSQLiteQuery/PointingToDeclaration/sqlkite/com.frankegan.sqlkite/-kite-database/query.html
 $dokka.location:com.frankegan.sqlkite/KiteDatabase/query/#kotlin.String#kotlin.Array[kotlin.Any]/PointingToDeclaration/sqlkite/com.frankegan.sqlkite/-kite-database/query.html
 $dokka.location:com.frankegan.sqlkite/KiteDatabase/readableDatabase/#/PointingToDeclaration/sqlkite/com.frankegan.sqlkite/-kite-database/readable-database.html
+$dokka.location:com.frankegan.sqlkite/KiteDatabase/sendTableTrigger/#kotlin.String/PointingToDeclaration/sqlkite/com.frankegan.sqlkite/-kite-database/send-table-trigger.html
 $dokka.location:com.frankegan.sqlkite/KiteDatabase/sendTableTrigger/#kotlin.collections.Set[kotlin.String]/PointingToDeclaration/sqlkite/com.frankegan.sqlkite/-kite-database/send-table-trigger.html
 $dokka.location:com.frankegan.sqlkite/KiteDatabase/setLoggingEnabled/#kotlin.Boolean/PointingToDeclaration/sqlkite/com.frankegan.sqlkite/-kite-database/set-logging-enabled.html
 $dokka.location:com.frankegan.sqlkite/KiteDatabase/update/#kotlin.String#kotlin.Int#android.content.ContentValues#kotlin.String?#kotlin.Array[kotlin.String?]/PointingToDeclaration/sqlkite/com.frankegan.sqlkite/-kite-database/update.html
